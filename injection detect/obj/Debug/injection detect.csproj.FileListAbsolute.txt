@@ -1,0 +1,10 @@
+C:\Users\burgo\source\repos\injection detect\injection detect\bin\Debug\injection detect.exe.config
+C:\Users\burgo\source\repos\injection detect\injection detect\bin\Debug\injection detect.exe
+C:\Users\burgo\source\repos\injection detect\injection detect\bin\Debug\injection detect.pdb
+C:\Users\burgo\source\repos\injection detect\injection detect\obj\Debug\injection detect.csproj.AssemblyReference.cache
+C:\Users\burgo\source\repos\injection detect\injection detect\obj\Debug\injection_detect.Form1.resources
+C:\Users\burgo\source\repos\injection detect\injection detect\obj\Debug\injection_detect.Properties.Resources.resources
+C:\Users\burgo\source\repos\injection detect\injection detect\obj\Debug\injection detect.csproj.GenerateResource.cache
+C:\Users\burgo\source\repos\injection detect\injection detect\obj\Debug\injection detect.csproj.CoreCompileInputs.cache
+C:\Users\burgo\source\repos\injection detect\injection detect\obj\Debug\injection detect.exe
+C:\Users\burgo\source\repos\injection detect\injection detect\obj\Debug\injection detect.pdb
